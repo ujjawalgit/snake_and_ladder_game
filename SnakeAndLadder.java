@@ -1,4 +1,4 @@
-﻿public class SnakeAndLadder {
+public class SnakeAndLadder {
     public static final int NO_PLAY = 0, LADDER = 1, SNAKE = 2;
     public static int[] count = new int[2];
     public static int[] positionOfPlayer = new int[2];
