@@ -1,4 +1,5 @@
-﻿public class SnakeAndLadder {
+
+public class SnakeAndLadder {
 
     public static void main(String[] args) {
 
@@ -33,5 +34,4 @@
             break;
 
     }
-}
 }
