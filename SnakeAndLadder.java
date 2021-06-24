@@ -14,7 +14,7 @@
                 break;
 
             case SNAKE:
-                position += die;
+                position -= die;
                 break;
         }
     }
